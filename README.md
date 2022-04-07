@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mismael83
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Machine Learning
 - 💞️ I’m looking to collaborate on Data projects
 - 📫 How to reach me archmismael@gmail.com
 
